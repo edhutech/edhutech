@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Edhu Nuñez (@edhutech)</h1>
 <h3 align="center">A tech lover. I use my skills in product design and coding to make attractive and functional products, from the idea stage to the final product. I'm excited to work with others and continue learning in this amazing field.</h3>
 
-- 🚀 I’m the CTO and co-founder on [LetyMind](https://letymind.com/)
+- 🚀 I’m co-founder on [LetyMind](https://letymind.com/)
 
-- 👨‍💻 All of my projects are available at [https://edhutech.com/](https://edhutech.com/)
-
-- 📝 I regularly write articles on [https://edhutech.com/](https://edhutech.com/)
-
-- 📫 How to reach me **edhutech@proton.me**
+- 📫 How to reach me **[edhutech@proton.me](https://www.linkedin.com/in/edhutech/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
