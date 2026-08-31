@@ -78,14 +78,10 @@ AI Product Prototyping
 
 ## 🔗 Connect
 
-<p>
-  <a href="https://edhutech.com/">
-    <img src="https://api.iconify.design/lucide:globe.svg?color=%238b949e" width="18" height="18" alt="Website" />
-    Website
-  </a>
-  &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/edhutech/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="18" height="18" alt="LinkedIn" />
-    LinkedIn
-  </a>
-</p>
+<a href="https://edhutech.com/">
+  <img src="./assets/website-link.svg" alt="Website" height="48">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/edhutech/">
+  <img src="./assets/linkedin-link.svg" alt="LinkedIn" height="48">
+</a>
