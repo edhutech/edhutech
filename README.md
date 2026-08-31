@@ -26,34 +26,69 @@ Nerv helps coding agents work with the right product and repository context whil
 - Contributing to open-source projects
 - Helping teams turn ideas into working products
 
-## ⚙️ Stack & Infrastructure
+## ⚙️ Tech Stack & Tools
 
-Development
+Frontend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react&theme=dark" height="38" alt="TypeScript, JavaScript, Node.js and React" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs&theme=dark" height="38" alt="HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React and Next.js" />
   <img src="https://skillicons.dev/icons?i=astro&theme=light" height="38" alt="Astro" />
 </p>
 
-Data & Infrastructure
+Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,cloudflare,linux&theme=dark" height="38" alt="PostgreSQL, Docker, Cloudflare and Linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark" height="38" alt="Node.js and PostgreSQL" />
 </p>
 
-<sub>PostgreSQL · Docker · Cloudflare · Linux · 🖥️ VPS deployment</sub>
+Testing & Quality
+
+<p>
+  <img src="https://raw.githubusercontent.com/microsoft/playwright.dev/main/static/img/playwright-logo.svg" width="38" height="38" alt="Playwright" title="Playwright" />
+</p>
+
+Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare&theme=dark" height="38" alt="Docker, Linux, Nginx and Cloudflare" />
+  <img src="https://api.iconify.design/lucide:server.svg?color=%23d1d5db" width="38" height="38" alt="VPS deployment" title="VPS deployment" />
+</p>
 
 Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="38" alt="Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bash&theme=dark" height="38" alt="Git, GitHub, GitHub Actions and Bash" />
+  <img src="https://www.google.com/s2/favicons?domain=warp.dev&sz=128" width="38" height="38" alt="Warp" title="Warp" />
 </p>
 
-## 🌐 Connect
+AI Coding Tools
 
-- [Website](https://edhutech.com)
-- [LinkedIn](https://www.linkedin.com/in/edhutech)
-- [GitHub](https://github.com/edhutech)
+<p>
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="38" height="38" alt="Codex" title="Codex" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="38" height="38" alt="Claude Code" title="Claude Code" />
+  <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" width="38" height="38" alt="OpenCode" title="OpenCode" />
+</p>
+
+AI Product Prototyping
+
+<p>
+  <img src="https://www.google.com/s2/favicons?domain=stitch.withgoogle.com&sz=128" width="38" height="38" alt="Google Stitch" title="Google Stitch" />
+  <img src="https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=128" width="38" height="38" alt="Google AI Studio" title="Google AI Studio" />
+</p>
+
+## 🔗 Connect
+
+<p>
+  <a href="https://edhutech.com/">
+    <img src="https://api.iconify.design/lucide:globe.svg?color=%238b949e" width="18" height="18" alt="" />
+    Website
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/edhutech/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" height="18" alt="" />
+    LinkedIn
+  </a>
+</p>
 
 ---
 
