@@ -28,52 +28,37 @@ Nerv helps coding agents work with the right product and repository context whil
 
 ## ⚙️ Tech Stack & Tools
 
-Frontend & Web
+**Build**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs&theme=dark" height="38" alt="HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React and Next.js" />
   <img src="https://skillicons.dev/icons?i=astro&theme=light" height="38" alt="Astro" />
-</p>
-
-Backend & Data
-
-<p>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark" height="38" alt="Node.js and PostgreSQL" />
 </p>
 
-Testing & Quality
+**Test, Ship & Operate**
 
 <p>
   <img src="https://raw.githubusercontent.com/microsoft/playwright.dev/main/static/img/playwright-logo.svg" width="38" height="38" alt="Playwright" title="Playwright" />
-</p>
-
-Infrastructure
-
-<p>
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare&theme=dark" height="38" alt="Docker, Linux, Nginx and Cloudflare" />
-  <img src="https://api.iconify.design/lucide:server.svg?color=%23d1d5db" width="38" height="38" alt="VPS deployment" title="VPS deployment" />
+  <img src="https://api.iconify.design/lucide:server.svg?color=%23d1d5db" width="38" height="38" alt="VPS" title="VPS deployment" />
 </p>
 
-Tools & Workflow
+**Developer Workflow**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,bash&theme=dark" height="38" alt="Git, GitHub, GitHub Actions and Bash" />
   <img src="https://www.google.com/s2/favicons?domain=warp.dev&sz=128" width="38" height="38" alt="Warp" title="Warp" />
 </p>
 
-AI Coding Tools
+**AI-powered Workflow**
 
 <p>
   <img src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128" width="38" height="38" alt="Codex" title="Codex" />
   <img src="https://cdn.simpleicons.org/anthropic/D97757" width="38" height="38" alt="Claude Code" title="Claude Code" />
   <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" width="38" height="38" alt="OpenCode" title="OpenCode" />
-</p>
-
-AI Product Prototyping
-
-<p>
-  <img src="https://www.google.com/s2/favicons?domain=stitch.withgoogle.com&sz=128" width="38" height="38" alt="Google Stitch" title="Google Stitch" />
   <img src="https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=128" width="38" height="38" alt="Google AI Studio" title="Google AI Studio" />
+  <img src="https://www.google.com/s2/favicons?domain=stitch.withgoogle.com&sz=128" width="38" height="38" alt="Google Stitch" title="Google Stitch" />
 </p>
 
 ## 🔗 Connect
