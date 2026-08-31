@@ -66,7 +66,6 @@ Nerv helps coding agents work with the right product and repository context whil
 <a href="https://edhutech.com/">
   <img src="./assets/website-link.svg" alt="Website" height="48">
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/edhutech/">
   <img src="./assets/linkedin-link.svg" alt="LinkedIn" height="48">
 </a>
