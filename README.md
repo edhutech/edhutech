@@ -1,3 +1,5 @@
+![Edhú Nuñez — AI Product Builder and Product Manager](./assets/github-profile-cover-dark.webp)
+
 # Hi, I'm Edhú Nuñez 👋
 
 **AI Product Builder · Product Manager**
