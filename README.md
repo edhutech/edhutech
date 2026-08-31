@@ -26,48 +26,28 @@ Nerv helps coding agents work with the right product and repository context whil
 - Contributing to open-source projects
 - Helping teams turn ideas into working products
 
-⚙️ Stack & Infrastructure
+## ⚙️ Stack & Infrastructure
 
 Development
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" title="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" title="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="36" height="36" title="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="36" height="36" title="Astro" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react&theme=dark" height="38" alt="TypeScript, JavaScript, Node.js and React" />
+  <img src="https://skillicons.dev/icons?i=astro&theme=light" height="38" alt="Astro" />
 </p>
 
 Data & Infrastructure
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" title="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" title="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="36" height="36" title="Cloudflare" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,cloudflare,linux&theme=dark" height="38" alt="PostgreSQL, Docker, Cloudflare and Linux" />
 </p>
 
-VPS deployment
+<sub>PostgreSQL · Docker · Cloudflare · Linux · 🖥️ VPS deployment</sub>
 
 Tools & Workflow
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="36" height="36" title="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/ffffff#gh-dark-mode-only" alt="GitHub" width="36" height="36" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/github/181717#gh-light-mode-only" alt="GitHub" width="36" height="36" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="38" alt="Git and GitHub" />
 </p>
-
-AI Development
-
-AI Coding Agents · Agentic Workflows · LLM APIs
 
 ## 🌐 Connect
 
