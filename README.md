@@ -64,7 +64,7 @@ Tools & Workflow
 AI Coding Tools
 
 <p>
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="38" height="38" alt="Codex" title="Codex" />
+  <img src="https://cdn.simpleicons.org/openai/ffffff" width="38" height="38" alt="Codex" title="Codex" />
   <img src="https://cdn.simpleicons.org/anthropic/D97757" width="38" height="38" alt="Claude Code" title="Claude Code" />
   <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" width="38" height="38" alt="OpenCode" title="OpenCode" />
 </p>
@@ -80,16 +80,12 @@ AI Product Prototyping
 
 <p>
   <a href="https://edhutech.com/">
-    <img src="https://api.iconify.design/lucide:globe.svg?color=%238b949e" width="18" height="18" alt="" />
+    <img src="https://api.iconify.design/lucide:globe.svg?color=%238b949e" width="18" height="18" alt="Website" />
     Website
   </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp; · &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/edhutech/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" height="18" alt="" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="18" height="18" alt="LinkedIn" />
     LinkedIn
   </a>
 </p>
-
----
-
-> Building products, learning in public, and exploring how AI changes the way software gets made.
