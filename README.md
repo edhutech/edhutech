@@ -1,8 +1,8 @@
 # Hi, I'm Edhú Nuñez 👋
 
-**AI Product Builder · Product Manager · Building [Nerv](https://github.com/edhutech/nerv)**
+**AI Product Builder · Product Manager**
 
-I build digital products at the intersection of **AI, product, and software development** — from identifying opportunities and defining the product to building and shipping working solutions.
+I build digital products at the intersection of **AI, product, and software development**, from identifying opportunities and defining the product to building and shipping working solutions.
 
 Currently, I'm especially interested in **AI-assisted software development, developer tools, product engineering, and agentic workflows**.
 
