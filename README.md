@@ -1,14 +1,40 @@
-<h1 align="center">Hi 👋, I'm Edhu Nuñez (@edhutech)</h1>
-<h3 align="center">A tech lover. I use my skills in product design and coding to make attractive and functional products, from the idea stage to the final product. I'm excited to work with others and continue learning in this amazing field.</h3>
+# Hi, I'm Edhú Nuñez 👋
 
-- 🚀 I’m co-founder on [LetyMind](https://letymind.com/)
+**AI Product Builder · Product Manager · Building [Nerv](https://github.com/edhutech/nerv)**
 
-- 📫 How to reach me **[edhutech@proton.me](https://www.linkedin.com/in/edhutech/)**
+I build digital products at the intersection of **AI, product, and software development** — from identifying opportunities and defining the product to building and shipping working solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/edhutech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edhutech" height="30" width="40" /></a>
-</p>
+Currently, I'm especially interested in **AI-assisted software development, developer tools, product engineering, and agentic workflows**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## 🚀 What I'm working on
+
+### [Nerv](https://github.com/edhutech/nerv)
+
+**Local-first work harness for coding-agent projects.**
+
+Nerv helps coding agents work with the right product and repository context while keeping execution structured through tasks, runs, reviews, and checkpoints.
+
+`Open Source` · `Apache-2.0` · `Developer Tools` · `AI Agents`
+
+## 🧭 Current focus
+
+- Building AI-powered digital products
+- Exploring Product Engineering and AI-assisted development
+- Creating tools and workflows for coding agents
+- Contributing to open-source projects
+- Helping teams turn ideas into working products
+
+## 🛠️ Technologies
+
+`TypeScript` · `JavaScript` · `Astro` · `React` · `Node.js`  
+`PostgreSQL` · `Cloudflare` · `Git` · `GitHub` · `AI Coding Agents`
+
+## 🌐 Connect
+
+- [Website](https://edhutech.com)
+- [LinkedIn](https://www.linkedin.com/in/edhutech)
+- [GitHub](https://github.com/edhutech)
+
+---
+
+> Building products, learning in public, and exploring how AI changes the way software gets made.
