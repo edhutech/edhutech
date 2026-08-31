@@ -64,7 +64,7 @@ Tools & Workflow
 AI Coding Tools
 
 <p>
-  <img src="https://cdn.simpleicons.org/openai/ffffff" width="38" height="38" alt="Codex" title="Codex" />
+  <img src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128" width="38" height="38" alt="Codex" title="Codex" />
   <img src="https://cdn.simpleicons.org/anthropic/D97757" width="38" height="38" alt="Claude Code" title="Claude Code" />
   <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" width="38" height="38" alt="OpenCode" title="OpenCode" />
 </p>
