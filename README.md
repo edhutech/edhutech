@@ -55,7 +55,7 @@ Nerv helps coding agents work with the right product and repository context whil
 
 <p>
   <img src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128" width="38" height="38" alt="Codex" title="Codex" />
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="38" height="38" alt="Claude Code" title="Claude Code" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="38" height="38" alt="Claude Code" title="Claude Code" />
   <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" width="38" height="38" alt="OpenCode" title="OpenCode" />
   <img src="https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=128" width="38" height="38" alt="Google AI Studio" title="Google AI Studio" />
   <img src="https://www.google.com/s2/favicons?domain=stitch.withgoogle.com&sz=128" width="38" height="38" alt="Google Stitch" title="Google Stitch" />
